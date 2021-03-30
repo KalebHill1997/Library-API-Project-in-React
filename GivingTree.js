@@ -14,7 +14,6 @@ class GivingTree extends Component {
           title: "",
           author: "",
           didchange: false
-
       }
   }
     
